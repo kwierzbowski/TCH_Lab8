@@ -2,7 +2,7 @@
 Technologie Chmurowe: Laboratorium 8
 
 Zbudowanie obrazu
-![image](https://github.com/kwierzbowski/TCH_Lab8/assets/83925877/ac389841-66b1-4e0c-8fae-174bad956314)
+![image](https://github.com/kwierzbowski/TCH_Lab8/assets/83925877/f46a069c-929e-4487-8d5b-f3cb0343ea0c)
 
 Uruchomienie kontenera
 ![image](https://github.com/kwierzbowski/TCH_Lab8/assets/83925877/a19f751c-aefb-4817-9b9f-ab4e53a3bfea)
